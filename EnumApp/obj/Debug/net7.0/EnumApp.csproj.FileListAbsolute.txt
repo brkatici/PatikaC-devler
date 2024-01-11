@@ -1,0 +1,14 @@
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\bin\Debug\net7.0\EnumApp.exe
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\bin\Debug\net7.0\EnumApp.deps.json
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\bin\Debug\net7.0\EnumApp.runtimeconfig.json
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\bin\Debug\net7.0\EnumApp.dll
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\bin\Debug\net7.0\EnumApp.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\EnumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\EnumApp.AssemblyInfoInputs.cache
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\EnumApp.AssemblyInfo.cs
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\EnumApp.csproj.CoreCompileInputs.cache
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\EnumApp.dll
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\refint\EnumApp.dll
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\EnumApp.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\EnumApp.genruntimeconfig.cache
+C:\Users\Burak\OneDrive\Masaüstü\Patika Odevleri\EnumApp\obj\Debug\net7.0\ref\EnumApp.dll
